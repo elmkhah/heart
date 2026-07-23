@@ -1,0 +1,1 @@
+var a={id:"1",name:"\u062F\u06A9\u062A\u0631 \u0639\u0644\u06CC \u0645\u062D\u0645\u062F\u06CC",specialty:"\u0645\u062A\u062E\u0635\u0635 \u0642\u0644\u0628 \u0648 \u0639\u0631\u0648\u0642",email:"ali.mohammadi@heart-academy.ir",joinDate:"1402/06/15",avatarInitials:"\u0639 \u0645",profileCompletion:85};export{a};

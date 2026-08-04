@@ -11,4 +11,4 @@
 
 تا زمانی که عکس اضافه نشده، حروف اول نام (initials) نمایش داده می‌شود.
 
-مسیر در دیتا: `/assets/heart/images/patients/patient-{id}.png`
+مسیر در دیتا: `/assets/images/patients/patient-{id}.png`
